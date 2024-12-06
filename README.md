@@ -1,8 +1,7 @@
 [![Hi! I am Ahmad](https://tifile.ir/Ahmadifar/Hi.png "Hi! I am Ahmad")](https://a-ahmadifar.ir "Hi! I am Ahmad")
 
 #  👋 Hi, I am Ahmad Ahmadifar 
-I obtained my bachelor's degree from the [K. N. Toosi University of Technology](https://en.kntu.ac.ir/ "K. N. Toosi University of Technology"). After completing my bachelor's degree, I pursued additional IT and Data Science knowledge to combine my engineering expertise with new fields, fostering innovation and expanding my knowledge. My interest in data science led me to participate in relevant courses, including Data Science, Artificial Intelligence, and Statistical Analysis.
-I am passionate about applying engineering and data science principles to solve real-world challenges. 
+I did my bachelor's at [K. N. Toosi University of Technology](https://en.kntu.ac.ir/ "K. N. Toosi University of Technology"). After my bachelor's, I pursued further IT and Data Science knowledge to combine my engineering expertise with new fields, fostering innovation and expanding my knowledge. My interest in data science led me to participate in relevant courses, including Data Science, Artificial Intelligence, and Statistical Analysis. I am passionate about applying engineering and data science principles to solve real-world challenges.
 ##  👀 I am interested in
 **Data Science:** I am fascinated by the power of data to uncover insights and drive informed decision-making. I am particularly interested in applying data science techniques to real-world problems, such as predicting trends, optimizing processes, and developing innovative solutions.
 
@@ -16,7 +15,7 @@ I am passionate about applying engineering and data science principles to solve 
 ##  💞️ I am looking to collaborate on
 **Research projects:** These involve developing novel data science and computer vision algorithms and applying them to real-world problems.
 
-**Industry projects: **That leverage data science and machine learning to solve business challenges and improve operational efficiency.
+**Industry projects:** That leverage data science and machine learning to solve business challenges and improve operational efficiency.
 
 **Open-source projects:** That contribute to the data science community and foster collaboration among researchers and practitioners.
 ## 🚀 Entry to GitHub
