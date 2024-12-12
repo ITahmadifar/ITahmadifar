@@ -18,8 +18,7 @@ I did my bachelor's at [K. N. Toosi University of Technology](https://en.kntu.ac
 **Industry projects:** That leverage data science and machine learning to solve business challenges and improve operational efficiency.
 
 **Open-source projects:** That contribute to the data science community and foster collaboration among researchers and practitioners.
-## 🚀 Entry to GitHub
-During my years of experience, the organizations I worked with employed their own local Git version control systems to manage codebases effectively. However, I didn't create a personal GitHub account until now. I'm enthusiastic about joining the GitHub community, where I hope to collaborate on projects, contribute to open-source efforts, and further develop my skills while interacting with developers from around the world.
+
 ## 📫 How to reach me
 Email: ahmadifar.itman@gmail.com
 website: https://a-ahmadifar.ir
