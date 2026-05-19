@@ -21,7 +21,7 @@ I did my bachelor's at [K. N. Toosi University of Technology](https://en.kntu.ac
 
 ## 📫 How to reach me
 Email: ahmadifar.itman@gmail.com
-website: [https://a-ahmadifar.ir](https://itahmadifar.github.io/Portfolio/)
+website: [[https://a-ahmadifar.ir](https://itahmadifar.github.io/Portfolio/)]
 
 
 <!---
